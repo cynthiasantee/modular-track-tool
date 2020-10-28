@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/modular-track-tool/static/css/main.f0c57d5d.chunk.css",
+    "main.js": "/modular-track-tool/static/js/main.45edd7cb.chunk.js",
+    "main.js.map": "/modular-track-tool/static/js/main.45edd7cb.chunk.js.map",
+    "runtime-main.js": "/modular-track-tool/static/js/runtime-main.898f5dd3.js",
+    "runtime-main.js.map": "/modular-track-tool/static/js/runtime-main.898f5dd3.js.map",
+    "static/js/2.b8639319.chunk.js": "/modular-track-tool/static/js/2.b8639319.chunk.js",
+    "static/js/2.b8639319.chunk.js.map": "/modular-track-tool/static/js/2.b8639319.chunk.js.map",
+    "index.html": "/modular-track-tool/index.html",
+    "precache-manifest.5004564f9a0a2d0f43b44e3d68429777.js": "/modular-track-tool/precache-manifest.5004564f9a0a2d0f43b44e3d68429777.js",
+    "service-worker.js": "/modular-track-tool/service-worker.js",
+    "static/css/main.f0c57d5d.chunk.css.map": "/modular-track-tool/static/css/main.f0c57d5d.chunk.css.map"
+  }
+}
