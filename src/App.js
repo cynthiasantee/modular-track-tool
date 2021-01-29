@@ -36,7 +36,7 @@ function App() {
 
   const filteredCards = list.filter(info =>{
     console.log(info.name, info.tags)
-      return info.name.includes(field) && (info.tags.some(tag => tags.includes(tag)) || tags.length === 0)
+      return info.name.includes(field) && (info.tags.every(tag => tags.includes(tag)) || tags.length === 0)
   });
   
   return (
